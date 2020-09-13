@@ -6,14 +6,8 @@ In this project we use implemented functions of management with Block Files and 
 
 # Execution 
 You can check it out, only with successively executions:
-1) **bash script1.sh**
+1) **bash script1.sh**  (Check results of first queries.)
 
-Check results of first queries.
+2) **bash script2.sh**  (Check results of next queries.)
 
-2) **bash script2.sh**
-
-Check results of next queries.
-
-3) **bash script3.sh**
-
-Clean what we have just created.
+3) **bash script3.sh**  (Clean what we have just created.)
